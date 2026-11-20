@@ -159,10 +159,14 @@ TaskManager används när användaren vill:
 - Skapa uppgifter
 - Flytta uppgifter
 - Ta bort uppgifter
-- Läsa från tasks.txt
-- Skriva till tasks.txt
+
 
 TaskManager fungerar som länken mellan användaren och tavlan.
+
+### TaskFileManager
+
+- Läsa från tasks.txt
+- Skriva till tasks.txt
 
 ### tasks.txt
 
