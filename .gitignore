@@ -1,0 +1,32 @@
+# Maven & Gradle byggmappar
+target/
+build/
+.gradle/
+
+# Kompilerade Java-filer & paket
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE-filer (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.project
+.classpath
+.settings/
+bin/
+.vscode/
+
+# Loggar och kraschfiler
+*.log
+hs_err_pid*
+replay_pid*
+
+# Operativsystemfiler (Mac & Windows)
+.DS_Store
+Thumbs.db
+Desktop.ini
